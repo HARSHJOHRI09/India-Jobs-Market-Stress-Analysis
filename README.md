@@ -4,7 +4,7 @@ Dataset Overview – India Job Market Analysis
 
 Source: Kaggle / Government Open Data (Ministry of Labour & Employment / Periodic Labour Force Survey)
 
-Rows / Columns: ~48 rows × 2 columns
+Rows / Columns: ~38 rows × 2 columns
 
 Columns:
 
@@ -22,7 +22,7 @@ Usage in Dashboard: Line chart (Unemployment Trend), Average Unemployment KPI
 
 Source: Kaggle / News aggregated company layoffs data
 
-Rows / Columns: ~120 rows × 3 columns
+Rows / Columns: 31rows × 3 columns
 
 Columns:
 
@@ -42,7 +42,7 @@ Usage in Dashboard: Line chart (Layoffs Trend), Total Layoffs KPI, Stress Index
 
 Source: Kaggle / Job portals aggregated data
 
-Rows / Columns: ~200 rows × 3 columns
+Rows / Columns: 9 rows × 3 columns
 
 Columns:
 
